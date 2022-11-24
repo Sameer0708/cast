@@ -1,0 +1,72 @@
+body
+{
+    background-color: rgba(0, 128, 36, 0.707);
+}
+.grid-container{
+  
+  position: absolute;
+  font-family: 'Times New Roman';
+  margin-top: 70px;
+  background-color: rgba(245, 245, 245, 0.811);
+  padding: 15px;
+  margin-left: 500px;
+  margin-bottom: 100px;
+  
+
+}
+.heading
+{
+  font-size: 30px;
+
+
+}
+.name{
+  color: black;
+    padding: 15px 274px;
+    margin: 4px 2px;
+    padding-left: 15px;
+}
+.email{
+  color: black;
+  padding: 15px 274px;
+  margin: 4px 2px;
+  padding-left: 15px;
+
+}
+.phone{
+  color: black;
+    padding: 15px 274px;
+    margin: 4px 2px;
+    padding-left: 15px;
+
+}
+.website{
+  color: black;
+  padding: 15px 274px;
+  margin: 4px 2px;
+  padding-left: 15px;
+
+}
+.comment{
+  color: black;
+    padding: 15px 56px;
+    margin: 4px 2px;
+    padding-left: 15px;
+}
+
+.button{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 206px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+ 
+}
+.last{
+  justify-content: center;
+  align-items: center;
+  padding-left: 150px; 
+
+}
